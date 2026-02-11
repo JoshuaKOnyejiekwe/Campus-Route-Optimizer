@@ -17,3 +17,13 @@ A Python-based campus navigation tool that calculates the shortest walking path 
 
 python main.py
 Type in the name of the given buildings or copy and paste from the given names
+
+## Example
+
+Starting location: Student Center
+Ending location: Blount Towers
+
+Output:
+Shortest Path:
+Student Center → Earl S. Richardson Library → Cummings Hall → Blount Towers
+Total Cost: 18 minutes
