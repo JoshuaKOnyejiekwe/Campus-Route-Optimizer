@@ -1,4 +1,4 @@
-# Campus Route Optimizer
+# Honey Trail
 
 A Python-based campus navigation tool that calculates the shortest walking path between buildings using Dijkstra’s Algorithm.
 
